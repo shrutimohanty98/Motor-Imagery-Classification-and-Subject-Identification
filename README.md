@@ -20,4 +20,4 @@ certain pre-processing deduced from the effect of time
 period on accuracy. We achieve an accuracy of 73% for
 motor imagery classification, and 85% for subject identification.
 
-It is a part of Winter 2022 Course - Neural Networks and Deep Learning (ECE 247)
+This is a part of Winter 2022 Course - Neural Networks and Deep Learning (ECE 247)
